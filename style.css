@@ -1,0 +1,36 @@
+*{
+	font-family: monospace;
+}
+
+body{
+	background-color: #8dc3a7;
+}
+
+
+#profil{
+	width: 80px;
+	height: 80px;
+	background-color: skyblue;
+	border-radius: 100%;
+}
+
+
+
+#nama{
+	margin: 10px;
+	height: 10px;
+}
+
+.con{
+	display: flex;
+}
+
+h1{
+	margin-bottom: 40px;
+}
+
+h1 , h1 span{
+	background-color: lime;
+	width: 250px;
+}
+
